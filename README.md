@@ -11,3 +11,17 @@ The app starts out with a login screen, in which the user can either log in with
 
 # Screenshots: 
 ![image](https://github.com/syedasraa/CoinTrack/assets/92538646/0d6f1be0-dea7-4e8f-b09d-b671ed73cdb9)
+![image](https://github.com/syedasraa/CoinTrack/assets/92538646/9ece3e5b-7cc2-4d33-83db-798d8256e57c)
+![image](https://github.com/syedasraa/CoinTrack/assets/92538646/276ce038-fbe5-46c0-86f7-3f98cdbbcb91)
+![image](https://github.com/syedasraa/CoinTrack/assets/92538646/54a35b51-0b33-459f-8fca-1ba70b09da4b)
+![image](https://github.com/syedasraa/CoinTrack/assets/92538646/e1bbdda9-cf9e-4173-80ba-64dfb53ca249)
+![image](https://github.com/syedasraa/CoinTrack/assets/92538646/6c536bfe-201f-4373-94c7-35a05f540e51)
+![image](https://github.com/syedasraa/CoinTrack/assets/92538646/4b1cf38f-0091-4fb1-b543-6c2cfb4b012a)
+![image](https://github.com/syedasraa/CoinTrack/assets/92538646/45cec998-1948-449a-9dd4-54588eaec04b)
+
+
+
+
+
+
+
